@@ -1,0 +1,5 @@
+discount_level,total_products,avg_rating,avg_reviews,avg_discount
+"Very high discount",245,4.03,14887,77.92
+"High discount",504,4.08,20575,58.66
+"Medium discount",480,4.11,16966,37.65
+"Low discount",233,4.18,19761,12.74
